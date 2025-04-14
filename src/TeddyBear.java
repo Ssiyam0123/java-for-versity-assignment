@@ -6,7 +6,7 @@ public class TeddyBear {
         System.out.println("New teddy bear generated");
     }
 
-    public void showColor(){
-        System.out.println("Ei bear ta holo "+ color);
-    }
+    // public void showColor(){
+    //     System.out.println("Ei bear ta holo "+ color);
+    // }
 }
