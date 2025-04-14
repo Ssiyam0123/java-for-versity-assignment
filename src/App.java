@@ -17,14 +17,26 @@ public class App {
 
         // input.close();
         // TeddyBear myTeddy = new TeddyBear();
-        InstanceVariable gf1 = new InstanceVariable();
-        gf1.name = "mia khalif";
+        // InstanceVariable gf1 = new InstanceVariable();
+        // gf1.name = "mia khalif";
 
-        InstanceVariable gf2 = new InstanceVariable();
-        gf2.name = "angelina white";
+        // InstanceVariable gf2 = new InstanceVariable();
+        // gf2.name = "angelina white";
         
-        gf1.printName();
-        gf2.printName();
+        // gf1.printName();
+        // gf2.printName();
+
+
+
+        Girl gof1 = new Girl();
+        gof1.name = "Nafisa";
+        gof1.exposeName();
+
+        Girl gof2 = new Girl();
+        gof2.name = "Rini";
+        gof2.exposeName();
+
+
         
     }
 }
